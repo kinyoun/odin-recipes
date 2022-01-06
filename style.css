@@ -1,0 +1,16 @@
+h1{
+    color:#A68DAD;
+    font-family: "Courier New", "Lucida Console", monospace ;
+}
+
+body{
+    background-color: #F0ECE3;
+    text-align: center;
+}
+
+.link{
+    color: #C7B198;
+    background-color: #DFD3C3;
+    font-weight: bold;
+}
+
